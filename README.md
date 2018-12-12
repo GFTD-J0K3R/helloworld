@@ -1,2 +1,4 @@
 # helloworld
-ideas
+ideas for stuff
+github tutorial?
+
